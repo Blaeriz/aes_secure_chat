@@ -1,0 +1,9 @@
+build/
+certs/*.pem
+.venv/
+__pycache__/
+*.o
+*.a
+main_server
+simulator/.venv/
+simulator/uv.lock
